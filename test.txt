@@ -1,2 +1,2 @@
 this is my first  time to use Notepad++;
-Add a new line¡£
+Add a new linemyname
